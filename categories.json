@@ -1,0 +1,131 @@
+[
+  {
+    "id":100,
+    "name":"Favorites",
+    "color":"000000",
+    "iconUrl": "",
+    "subcategories": []
+  },
+  {
+    "id":200,
+    "name":"Watch Next",
+    "color":"000000",
+    "iconUrl": "",
+    "subcategories":[]
+  },
+  {
+    "id":300,
+    "name":"TV Programs",
+    "color":"000000",
+    "iconUrl": "",
+    "subcategories":[
+      {
+        "id":301,
+        "name":"Family",
+        "color":"000000",
+        "iconUrl": "/Icon/Family.png",
+        "subcategories":[]
+      },
+      {
+        "id":302,
+        "name":"Documentary",
+        "color":"000000",
+        "iconUrl": "/Icon/Documentary.png",
+        "subcategories":[]
+      },
+      {
+        "id":303,
+        "name":"Leisure",
+        "color":"000000",
+        "iconUrl": "/Icon/Leisure.png",
+        "subcategories":[]
+      },
+      {
+        "id":304,
+        "name":"News",
+        "color":"000000",
+        "iconUrl": "/Icon/News.png",
+        "subcategories":[]
+      },
+      {
+        "id":305,
+        "name":"Sports",
+        "color":"000000",
+        "iconUrl": "/Icon/Sports.png",
+        "subcategories":[]
+      }
+    ]
+  },
+  {
+    "id":400,
+    "name":"Video on Demand",
+    "color":"000000",
+    "iconUrl": "",
+    "subcategories":[
+      {
+        "id":401,
+        "name":"Action",
+        "color":"000000",
+        "iconUrl": "/Icon/Action.png",
+        "subcategories":[]
+      },
+      {
+        "id":402,
+        "name":"Comedy",
+        "color":"000000",
+        "iconUrl": "/Icon/Comedy.png",
+        "subcategories":[]
+      },
+      {
+        "id":403,
+        "name":"Infotainment",
+        "color":"000000",
+        "iconUrl": "/Icon/Infotainment.png",
+        "subcategories":[]
+      },
+      {
+        "id":404,
+        "name":"Horror",
+        "color":"000000",
+        "iconUrl": "/Icon/Horror.png",
+        "subcategories":[]
+      }
+    ]
+  },
+  {
+    "id":500,
+    "name":"Settings",
+    "color":"000000",
+    "iconUrl": "",
+    "subcategories":[
+      {
+        "id":501,
+        "name":"Display",
+        "color":"000000",
+        "iconUrl": "/Icon/Display.png",
+        "subcategories":[]
+      },
+      {
+        "id":502,
+        "name":"Audio",
+        "color":"000000",
+        "iconUrl": "/Icon/Audio.png",
+        "subcategories":[]
+      },
+      {
+        "id":503,
+        "name":"Directory",
+        "color":"000000",
+        "iconUrl": "/Icon/Directory.png",
+        "subcategories":[]
+      },
+      {
+        "id":504,
+        "name":"Advanced",
+        "color":"000000",
+        "iconUrl": "/Icon/Advanced.png",
+        "subcategories":[]
+      }
+    ]
+  }
+]
